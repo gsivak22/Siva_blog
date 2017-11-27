@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Welcome to Siva_blog"
 date:   2017-11-24 16:33:58 +0530
 categories: jekyll update
